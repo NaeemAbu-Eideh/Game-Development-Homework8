@@ -23,6 +23,7 @@ public class scr : MonoBehaviour
             else {
                 Debug.Log("number is: " + (x));
             }
+            i++;
         }
     }
 
